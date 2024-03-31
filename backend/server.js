@@ -108,7 +108,7 @@ try {
 		description: 'Cool and hydrating',
 		price: 130,
 		image:
-'https://github.com/TirthChaklasiya0360/FreshHarvest/blob/main/backend/images/10.jpg'
+'https://github.com/TirthChaklasiya0360/FreshHarvest/blob/main/backend/images/10.jpg?raw=true'
 	},
 
 	];

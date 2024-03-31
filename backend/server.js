@@ -36,7 +36,7 @@ try {
 		description: 'Fresh and crispy',
 		price: 150,
 		image:
-'https://github.com/TirthChaklasiya0360/FreshHarvest/blob/main/backend/images/1.jpg'
+'https://raw.githubusercontent.com/TirthChaklasiya0360/FreshHarvest/main/backend/images/1.jpg'
 	},
 	{
 		name: 'Banana',

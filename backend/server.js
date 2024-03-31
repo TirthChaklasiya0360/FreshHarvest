@@ -36,7 +36,7 @@ try {
 		description: 'Fresh and crispy',
 		price: 150,
 		image:
-'./images/1.jpg'
+'https://images.unsplash.com/photo-1579613832125-5d34a13ffe2a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8M3x8fGVufDB8fHx8fA%3D%3D'
 	},
 	{
 		name: 'Banana',
@@ -44,7 +44,7 @@ try {
 		description: 'Rich in potassium',
 		price: 75,
 		image:
-'https://github.com/TirthChaklasiya0360/FreshHarvest/blob/main/backend/images/2.jpg'
+'https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YmFuYW5hfGVufDB8fDB8fHww'
 	},
 	{
 		name: 'Orange',
@@ -52,7 +52,7 @@ try {
 		description: 'Packed with vitamin C',
 		price: 200,
 		image:
-'https://github.com/TirthChaklasiya0360/FreshHarvest/blob/main/backend/images/3.jpg'
+'https://images.unsplash.com/photo-1580052614034-c55d20bfee3b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8b3JhbmdlfGVufDB8fDB8fHww'
 	},
 	{
 		name: 'Carrot',
@@ -60,7 +60,7 @@ try {
 		description: 'Healthy and crunchy',
 		price: 100,
 		image:
-'https://github.com/TirthChaklasiya0360/FreshHarvest/blob/main/backend/images/4.jpg'
+'https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2Fycm90fGVufDB8fDB8fHww'
 	},
 	{
 		name: 'Broccoli',
@@ -68,7 +68,7 @@ try {
 		description: 'Nutrient-rich greens',
 		price: 175,
 		image:
-'https://github.com/TirthChaklasiya0360/FreshHarvest/blob/main/backend/images/5.jpg'
+'https://images.unsplash.com/photo-1459411621453-7b03977f4bfc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YnJvY2NvbGl8ZW58MHx8MHx8fDA%3D'
 	},
 	{
 		name: 'Grapes',
@@ -76,7 +76,7 @@ try {
 		description: 'Sweet and juicy',
 		price: 250,
 		image:
-'https://github.com/TirthChaklasiya0360/FreshHarvest/blob/main/backend/images/6.jpg'
+'https://images.unsplash.com/photo-1601275868399-45bec4f4cd9d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z3JhcGVzfGVufDB8fDB8fHww'
 	},
 	{
 		name: 'Strawberry',
@@ -84,7 +84,7 @@ try {
 		description: 'Delicious red berries',
 		price: 300,
 		image:
-'https://github.com/TirthChaklasiya0360/FreshHarvest/blob/main/backend/images/7.jpg'
+'https://images.unsplash.com/photo-1588165171080-c89acfa5ee83?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHN0cmFiZXJyeXxlbnwwfHwwfHx8MA%3D%3D'
 	},
 	{
 		name: 'Lettuce',
@@ -92,7 +92,7 @@ try {
 		description: 'Crisp and fresh',
 		price: 120,
 		image:
-'https://github.com/TirthChaklasiya0360/FreshHarvest/blob/main/backend/images/8.jpg'
+'https://images.unsplash.com/photo-1515356956468-873dd257f911?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGxldHR1Y2V8ZW58MHx8MHx8fDA%3D'
 	},
 	{
 		name: 'Tomato',
@@ -100,7 +100,7 @@ try {
 		description: 'Versatile and flavorful',
 		price: 180,
 		image:
-'https://github.com/TirthChaklasiya0360/FreshHarvest/blob/main/backend/images/9.jpg'
+'https://github.com/TirthChaklasiya0360/FreshHarvest/blob/main/backend/images/9.jpghttps://images.unsplash.com/photo-1607305387299-a3d9611cd469?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dG9tYXRvfGVufDB8fDB8fHww'
 	},
 	{
 		name: 'Cucumber',
@@ -108,7 +108,7 @@ try {
 		description: 'Cool and hydrating',
 		price: 130,
 		image:
-'https://github.com/TirthChaklasiya0360/FreshHarvest/blob/main/backend/images/10.jpg?raw=true'
+'https://images.unsplash.com/photo-1568584711271-6c929fb49b60?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGN1Y3VtYmVyfGVufDB8fDB8fHww'
 	},
 
 	];

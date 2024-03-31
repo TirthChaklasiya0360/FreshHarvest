@@ -11,7 +11,7 @@ const Header = () => {
 	return (
 		<div className='header' >
 			<h1 className='gfg'>
-				GFG Fruit & Vegetable Market
+				FresHarvest
 			</h1>
 			<h3 style={{ color: "green" }}>
 				Total Price: {totalPrice}

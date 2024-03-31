@@ -100,7 +100,7 @@ try {
 		description: 'Versatile and flavorful',
 		price: 180,
 		image:
-'https://github.com/TirthChaklasiya0360/FreshHarvest/blob/main/backend/images/9.jpghttps://images.unsplash.com/photo-1607305387299-a3d9611cd469?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dG9tYXRvfGVufDB8fDB8fHww'
+'https://images.unsplash.com/photo-1607305387299-a3d9611cd469?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dG9tYXRvfGVufDB8fDB8fHww'
 	},
 	{
 		name: 'Cucumber',
